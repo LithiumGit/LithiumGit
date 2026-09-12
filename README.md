@@ -1,6 +1,6 @@
 # 🚀 LithiumGit
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/tulshidas39/lithiumgit)  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/LithiumGit/LithiumGit)  
 
 
 **LithiumGit** is an advanced desktop application designed to simplify and supercharge your Git workflow. Whether you're a seasoned Git user or just getting started, LithiumGit provides you with a seamless, feature-rich, and customizable experience while managing your repositories.
@@ -27,12 +27,12 @@
 Follow these steps to install LithiumGit Client on your machine:
 
 ### Windows
-1. Download the latest release for Windows from the [Releases Page](https://github.com/tulshidas39/lithiumgit/releases).
+1. Download the latest release for Windows from the [Releases Page](https://github.com/LithiumGit/LithiumGit/releases).
 2. Run the installer and follow the on-screen instructions.
 3. Launch **LithiumGit** and start exploring Git like never before!
 
 ### macOS
-1. Download the `.dmg` file from the [Releases Page](https://github.com/tulshidas39/lithiumgit/releases).
+1. Download the `.dmg` file from the [Releases Page](https://github.com/LithiumGit/LithiumGit/releases).
 2. Open the `.dmg`, drag the app into your `Applications` folder, and you're ready to go!
 
 ### Linux
@@ -64,45 +64,23 @@ _Enjoy lightning-fast Git operations from one central tool!_
 ---
 
 
-## 🤝 Contributing
+## 🐞 Bug Reports and Feature Requests
 
-Contributions are more than welcome! Please feel free to:
+Your feedback shapes LithiumGit! Please feel free to:
 
-- Submit bug reports or feature requests on [GitHub Issues](https://github.com/tulshidas39/lithiumgit/issues).
-- Fork the repository, make your changes, and open a Pull Request to get your contributions merged.
+- Report a bug on [GitHub Issues](https://github.com/LithiumGit/LithiumGit/issues).
+- Request a new feature on [GitHub Issues](https://github.com/LithiumGit/LithiumGit/issues).
 
-### Local Development Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tulshidas39/lithiumgit.git
-   cd lithiumgit
-   ```
-2. Install dependencies:
-   ```bash
-   npm install  # Or yarn install
-   ```
-3. Start the main process:
-   ```bash
-   npm start
-   ```
-4. Navigate to ui:
-   ```bash
-   cd ui
-   ```
-5. Install dependencies of ui:
-   ```bash
-   npm install  # Or yarn install
-   ```
-6. Start the renderer process:
-   ```bash
-   npm start
-   ```
+The source code of LithiumGit is not publicly available, so there is no local
+development setup and pull requests are not accepted.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for full details.
+LithiumGit is **free to use** for both personal and business purposes, and no
+registration or account is required.
+See the [LICENSE](./LICENSE) file for the terms.
 
 ---
 
@@ -117,9 +95,9 @@ For detailed usage instructions, and resources, visit our  website:
 
 If you have any questions, feedback, or feature requests, feel free to reach out to:
 
-- **GitHub Issues**: [GitHub Issues](https://github.com/tulshidas39/lithiumgit/issues)
+- **GitHub Issues**: [GitHub Issues](https://github.com/LithiumGit/LithiumGit/issues)
 
-We welcome users and contributors alike. Let's build the best Git client experience together! 🚀  
+Let's build the best Git client experience together! 🚀  
 
 ---
 

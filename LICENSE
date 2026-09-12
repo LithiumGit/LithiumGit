@@ -1,21 +1,118 @@
-MIT License
+LithiumGit End User License Agreement
 
-Copyright (c) 2021-Present LithiumGit Contributors
+Copyright (c) 2021-Present Tulshi Chandra Das. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This End User License Agreement ("Agreement") is a legal agreement between you
+(either an individual or a single entity, "you") and Tulshi Chandra Das
+("Licensor") for the LithiumGit software application, including its executable
+files, installers, documentation and any updates provided to you (the
+"Software").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By installing or using LithiumGit, you accept the terms of this Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. GRANT OF LICENSE
+
+Subject to your compliance with this Agreement, the Licensor grants you a
+free of charge, non-exclusive, non-transferable, revocable, worldwide license
+to install and use the Software on any number of computers that you own or
+control, for your own personal purposes or for the internal business purposes
+of your organisation.
+
+No fee is charged for this license. No registration or account is required.
+
+2. RESTRICTIONS
+
+Except to the extent that the following restrictions are prohibited by
+applicable law, you may NOT:
+
+  a. copy the Software, other than a single copy made for backup purposes and
+     the copies necessarily made in the ordinary course of installing and
+     running it;
+
+  b. distribute, redistribute, publish, upload, mirror, bundle, lend, or
+     otherwise make the Software available to any third party, whether or not
+     for a charge;
+
+  c. sell, resell, rent, lease, sublicense or otherwise commercially exploit
+     the Software, or charge any third party for access to it;
+
+  d. modify, adapt, translate or create derivative works based on the
+     Software;
+
+  e. reverse engineer, decompile or disassemble the Software, or otherwise
+     attempt to derive its source code;
+
+  f. remove, obscure or alter any copyright, trademark or other proprietary
+     notice contained in the Software; or
+
+  g. host the Software or provide it to third parties as a hosted or managed
+     service.
+
+You may direct other people to the official download page at
+https://lithiumgit.com to obtain their own copy of the Software.
+
+3. OWNERSHIP
+
+The Software is licensed to you, not sold. The Licensor retains all right,
+title and interest in and to the Software, including all intellectual property
+rights therein. All rights not expressly granted to you in this Agreement are
+reserved by the Licensor.
+
+4. THIRD PARTY COMPONENTS
+
+The Software includes third party components that are distributed under their
+own licenses. Those components remain subject to the terms of their respective
+licenses, and nothing in this Agreement limits any right you have under them.
+
+5. UPDATES
+
+Any update, upgrade or new version of the Software made available to you is
+governed by this Agreement unless it is accompanied by separate license terms,
+in which case those terms apply to that release.
+
+6. TERMINATION
+
+This Agreement takes effect when you first install or use the Software and
+continues until terminated. It terminates automatically and immediately if you
+breach any of its terms. On termination you must stop using the Software and
+remove all copies of it in your possession or control.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT.
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR
+FREE, OR THAT IT WILL MEET YOUR REQUIREMENTS.
+
+The Software operates on your Git repositories using the Git installation on
+your computer. You are solely responsible for maintaining backups of your data
+and repositories.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, ANY
+LOSS OF DATA, REPOSITORIES, PROFITS OR BUSINESS, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Nothing in this Agreement excludes or limits any liability that cannot be
+excluded or limited under applicable law.
+
+9. GENERAL
+
+If any provision of this Agreement is held to be unenforceable, that provision
+shall be limited or removed to the minimum extent necessary and the remaining
+provisions shall remain in full force and effect. This Agreement constitutes
+the entire agreement between you and the Licensor in respect of the Software.
+
+This Agreement is governed by the laws of Bangladesh, without regard to its
+conflict of law provisions.
+
+10. CONTACT
+
+For questions about this Agreement, or to request permission for any use not
+granted above, please open an issue at
+https://github.com/LithiumGit/LithiumGit or visit https://lithiumgit.com.
